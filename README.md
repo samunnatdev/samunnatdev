@@ -97,6 +97,24 @@ Projects are being added as they develop. You can follow that progress on my [Gi
   <img src="https://komarev.com/ghpvc/?username=samunnatdev&label=PROFILE%20VISITORS&color=003049&labelColor=6B705C&style=flat-square" alt="Profile visitor counter" />
 </p>
 
+## Guestbook
+
+<p align="center">
+  <strong>Have a question, idea, or kind note?</strong><br />
+  Leave a message in the guestbook — I would love to hear from you.
+</p>
+
+<p align="center">
+  <a href="https://github.com/samunnatdev/samunnatdev/issues/new?title=Guestbook%20Message&body=Hi%20Samunnat%2C%5Cn%5Cn">
+    <img src="https://img.shields.io/badge/Leave%20a%20message-003049?style=for-the-badge&logo=github&logoColor=F3E9D2&labelColor=6B705C" alt="Leave a guestbook message" />
+  </a>
+  <a href="https://github.com/samunnatdev/samunnatdev/issues">
+    <img src="https://img.shields.io/badge/Read%20visitor%20messages-003049?style=for-the-badge&logo=github&logoColor=F3E9D2&labelColor=6B705C" alt="Read guestbook messages" />
+  </a>
+</p>
+
+<sub>Messages are public GitHub issues. Please keep them kind, constructive, and on topic.</sub>
+
 ## Contact & Socials
 
 <p align="center">
