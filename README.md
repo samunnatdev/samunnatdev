@@ -6,24 +6,6 @@
   <img src="github-profile-banner.svg" alt="Samunnat Tuladhar — AI and machine learning profile banner" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://samunnattuladhar.me/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-samunnattuladhar.me-003049?style=for-the-badge&labelColor=253240" alt="Portfolio website" />
-  </a>
-  <a href="https://github.com/samunnatdev">
-    <img src="https://img.shields.io/badge/GITHUB-samunnatdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/samunnat-tuladhar-3528b0408/">
-    <img src="https://img.shields.io/badge/LINKEDIN-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20ML-003049?style=flat-square" alt="Focus: AI and machine learning" />
-  <img src="https://img.shields.io/badge/LEARNING-Python%20%7C%20Data%20%7C%20Math-CB997E?style=flat-square" alt="Learning Python, data, and mathematics" />
-  <img src="https://img.shields.io/badge/MINDSET-Curiosity%20over%20certainty-6B705C?style=flat-square" alt="Mindset: curiosity over certainty" />
-</p>
-
 ## About Me
 
 I am currently learning artificial intelligence and machine learning, with a focus on the fundamentals that make intelligent systems meaningful and reliable.
