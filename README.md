@@ -115,7 +115,7 @@ Projects are being added as they develop. You can follow that progress on my [Gi
 
 <p align="center">
   <a href="https://open.spotify.com/user/313uwa3aofl65jtbogkln32tp4la">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313uwa3aofl65jtbogkln32tp4la&theme=spotify&count=1&profile=off&footer=wave&now_playing=true" alt="Samunnat's currently playing Spotify track" width="400" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=313uwa3aofl65jtbogkln32tp4la&theme=spotify&count=1&header=0&profile=off&footer=wave&now_playing=true" alt="Samunnat's currently playing Spotify track" width="400" />
   </a>
 </p>
 
