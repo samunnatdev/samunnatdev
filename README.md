@@ -75,21 +75,6 @@ I use small, focused exercises and projects to reinforce what I study. The goal 
 
 Projects are being added as they develop. You can follow that progress on my [GitHub profile](https://github.com/samunnatdev).
 
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/samunnatdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=samunnatdev&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=003049,253240&title_color=F3E9D2&text_color=F3E9D2&icon_color=A5A58D&border_color=CB997E&border_radius=12" alt="Samunnat's GitHub statistics" height="170" />
-  </a>
-  <a href="https://github.com/samunnatdev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunnatdev&layout=compact&langs_count=8&hide_title=false&bg_color=003049,253240&title_color=F3E9D2&text_color=F3E9D2&icon_color=A5A58D&border_color=CB997E&border_radius=12" alt="Samunnat's most used programming languages" height="170" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Live cards powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>.</sub>
-</p>
-
 ## Contribution Streak
 
 <p align="center">
