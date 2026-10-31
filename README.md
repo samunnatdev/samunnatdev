@@ -6,6 +6,10 @@
   <img src="github-profile-banner.svg" alt="Samunnat Tuladhar — AI and machine learning profile banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=6B705C&center=true&vCenter=true&width=760&lines=Building+AI%2FML+foundations;Learning+Python%2C+data%2C+and+mathematics;Turning+small+experiments+into+understanding" alt="Animated typing effect" />
+</p>
+
 ## About Me
 
 I am currently learning artificial intelligence and machine learning, with a focus on the fundamentals that make intelligent systems meaningful and reliable.
@@ -84,6 +88,16 @@ My learning path centers on Python, algorithms, data structures, mathematics, an
 I use small, focused exercises and projects to reinforce what I study. The goal is not just to collect tools, but to understand the ideas behind them and build skills that compound over time.
 
 Projects are being added as they develop. You can follow that progress on my [GitHub profile](https://github.com/samunnatdev).
+
+<!-- PROFILE_STATS:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20projects-1-003049?style=flat-square&labelColor=6B705C" alt="Public projects" />
+  <img src="https://img.shields.io/badge/Total%20stars-0-003049?style=flat-square&labelColor=6B705C" alt="Total stars" />
+  <img src="https://img.shields.io/badge/Total%20forks-0-003049?style=flat-square&labelColor=6B705C" alt="Total forks" />
+  <br />
+  <sub>Portfolio snapshot refreshed 2026-10-31 · updated weekly by GitHub Actions</sub>
+</p>
+<!-- PROFILE_STATS:END -->
 
 ## Contribution Streak
 
