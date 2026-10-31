@@ -69,6 +69,34 @@ My learning path centers on Python, algorithms, data structures, mathematics, an
 ![VS Code](https://img.shields.io/badge/VS%20Code-003049?style=flat-square&logo=visualstudiocode&logoColor=F3E9D2&labelColor=6B705C)
 ![Postman](https://img.shields.io/badge/Postman-003049?style=flat-square&logo=postman&logoColor=F3E9D2&labelColor=6B705C)
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samunnatdev/samunnat-portfolio">Samunnat Portfolio</a></h3>
+      <p>A responsive personal profile and portfolio site documenting my AI/ML learning path, current work, experience, and contact links.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-003049?style=flat-square&logo=react&logoColor=F3E9D2&labelColor=6B705C" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-003049?style=flat-square&logo=typescript&logoColor=F3E9D2&labelColor=6B705C" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-003049?style=flat-square&logo=vite&logoColor=F3E9D2&labelColor=6B705C" alt="Vite" />
+        <img src="https://img.shields.io/badge/Tailwind-003049?style=flat-square&logo=tailwindcss&logoColor=F3E9D2&labelColor=6B705C" alt="Tailwind CSS" />
+      </p>
+      <a href="https://github.com/samunnatdev/samunnat-portfolio">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/samunnatdev/samunnatdev">GitHub Profile</a></h3>
+      <p>A living profile README with a custom banner, themed tech stack, contribution streak, visitor counter, and links to my work.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Markdown-003049?style=flat-square&logo=markdown&logoColor=F3E9D2&labelColor=6B705C" alt="Markdown" />
+        <img src="https://img.shields.io/badge/SVG-003049?style=flat-square&logo=svg&logoColor=F3E9D2&labelColor=6B705C" alt="SVG" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-003049?style=flat-square&logo=githubactions&logoColor=F3E9D2&labelColor=6B705C" alt="GitHub Actions" />
+      </p>
+      <a href="https://github.com/samunnatdev/samunnatdev">View repository →</a>
+    </td>
+  </tr>
+</table>
+
 ## Learning Through Building
 
 I use small, focused exercises and projects to reinforce what I study. The goal is not just to collect tools, but to understand the ideas behind them and build skills that compound over time.
@@ -87,11 +115,21 @@ Projects are being added as they develop. You can follow that progress on my [Gi
   <img src="https://komarev.com/ghpvc/?username=samunnatdev&label=PROFILE%20VISITORS&color=003049&labelColor=6B705C&style=flat-square" alt="Profile visitor counter" />
 </p>
 
-## Find Me Online
+## Contact & Socials
 
-- Website: [samunnattuladhar.me](https://samunnattuladhar.me/)
-- GitHub: [@samunnatdev](https://github.com/samunnatdev)
-- LinkedIn: [Samunnat Tuladhar](https://www.linkedin.com/in/samunnat-tuladhar-3528b0408/)
-- Email: [samunnat.dev@gmail.com](mailto:samunnat.dev@gmail.com)
+<p align="center">
+  <a href="https://samunnattuladhar.me/">
+    <img src="https://img.shields.io/badge/Portfolio-003049?style=for-the-badge&logo=googlechrome&logoColor=F3E9D2&labelColor=6B705C" alt="Portfolio website" />
+  </a>
+  <a href="https://github.com/samunnatdev">
+    <img src="https://img.shields.io/badge/GitHub-003049?style=for-the-badge&logo=github&logoColor=F3E9D2&labelColor=6B705C" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/samunnat-tuladhar-3528b0408/">
+    <img src="https://img.shields.io/badge/LinkedIn-003049?style=for-the-badge&logo=linkedin&logoColor=F3E9D2&labelColor=6B705C" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:samunnat.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-003049?style=for-the-badge&logo=gmail&logoColor=F3E9D2&labelColor=6B705C" alt="Email Samunnat" />
+  </a>
+</p>
 
 If you are also learning AI, machine learning, or the foundations behind them, feel free to connect.
