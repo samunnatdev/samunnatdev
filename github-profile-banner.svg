@@ -1,0 +1,37 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Samunnat Tuladhar — AI and Machine Learning</title>
+  <desc id="desc">A navy profile banner with cream typography and muted green and terracotta accents.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#003049"/>
+      <stop offset="1" stop-color="#253240"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="884" y1="22" x2="1218" y2="294" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5A58D" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#CB997E" stop-opacity="0.05"/>
+    </linearGradient>
+    <filter id="blur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="url(#background)"/>
+  <circle cx="1088" cy="142" r="150" fill="url(#glow)" filter="url(#blur)"/>
+  <circle cx="1088" cy="142" r="112" stroke="#A5A58D" stroke-opacity="0.32" stroke-width="1.5"/>
+  <circle cx="1088" cy="142" r="76" stroke="#CB997E" stroke-opacity="0.48" stroke-width="1.5"/>
+  <circle cx="1088" cy="142" r="38" fill="#A5A58D" fill-opacity="0.18" stroke="#A5A58D" stroke-opacity="0.65"/>
+  <path d="M936 142H1240M1088 -10V294M981 35L1195 249M1195 35L981 249" stroke="#F3E9D2" stroke-opacity="0.14" stroke-width="1"/>
+  <circle cx="1003" cy="84" r="5" fill="#CB997E"/>
+  <circle cx="1170" cy="207" r="5" fill="#A5A58D"/>
+  <circle cx="1206" cy="93" r="3" fill="#F3E9D2" fill-opacity="0.8"/>
+
+  <rect x="76" y="66" width="56" height="4" rx="2" fill="#CB997E"/>
+  <text x="76" y="123" fill="#F3E9D2" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1">SAMUNNAT TULADHAR</text>
+  <text x="78" y="163" fill="#A5A58D" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600" letter-spacing="3">AI / ML ENGINEER IN PROGRESS</text>
+  <text x="78" y="211" fill="#F3E9D2" fill-opacity="0.82" font-family="Arial, Helvetica, sans-serif" font-size="17">Python · Data · Mathematics · Intelligent systems</text>
+  <text x="78" y="254" fill="#CB997E" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-style="italic">Curiosity over certainty.</text>
+
+  <path d="M78 278H350" stroke="#F3E9D2" stroke-opacity="0.22"/>
+  <text x="78" y="300" fill="#F3E9D2" fill-opacity="0.55" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.5">LEARN · BUILD · EXPLAIN · REPEAT</text>
+</svg>
